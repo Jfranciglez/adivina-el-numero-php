@@ -16,6 +16,6 @@ Tendrás <ins>5 intentos</ins> para averiguar el número.
 * Programado con cariño ❤️
 * Adictivo
 
-Juega aquí:<>
+<a href="adivina-el-numero-php-17311.wasmer.app">Juega aquí</a>
 
 Dale una ⭐ a este repo si te ha gustado.
