@@ -4,12 +4,12 @@ Juego realizado en **PHP**en el que el usuario intenta adivinar el número que h
 
 Tendrás <ins>5</ins> para averiguar el número.
 
-<img src"img/img1.png">
-<img src"img/img2.png">
-<img src"img/img3.png">
-<img src"img/img4.png">
+<img  width="400px" src="img/img1.png">
+<img width="400px"  src="img/img2.png">
+<img width="400px"  src="img/img3.png">
+<img width="400px"  src="img/img4.png">
 
-##Características del juego:
+##  Características del juego:
 *Realizado en PHP
 *Sigue buenas prácticas
 *Programado con cariño ❤️
