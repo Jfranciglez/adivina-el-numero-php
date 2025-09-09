@@ -11,9 +11,9 @@ Tendrás <ins>5 intentos</ins> para averiguar el número.
 
 ##  Características del juego:
 
-*Realizado en PHP
-*Sigue buenas prácticas
-*Programado con cariño ❤️
-*Adictivo
+* Realizado en PHP
+* Sigue buenas prácticas
+* Programado con cariño ❤️
+* Adictivo
 
 Dale una ⭐ a este repo si te ha gustado.
