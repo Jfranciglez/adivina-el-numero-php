@@ -16,4 +16,6 @@ Tendrás <ins>5 intentos</ins> para averiguar el número.
 * Programado con cariño ❤️
 * Adictivo
 
+Juega aquí:<>
+
 Dale una ⭐ a este repo si te ha gustado.
